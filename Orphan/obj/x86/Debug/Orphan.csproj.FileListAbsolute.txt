@@ -1,0 +1,246 @@
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Orphan.exe
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Orphan.pdb
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.csprojResolveAssemblyReference.cache
+F:\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.exe
+F:\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.pdb
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\black jeans.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\blue sweater.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\defchar.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\green sweater.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\jeans.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\PSI shirt.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\red sweater.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\underwear.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\eyes.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\eyewhites.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair1.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair2.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair3.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair4.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair5.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\colorscale.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\connector.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\checker.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\collision.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\none.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\yellow.png
+E:\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.exe
+E:\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.pdb
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\black jeans.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\blue sweater.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\defchar.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\green sweater.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\jeans.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\PSI shirt.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\red sweater.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\underwear.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\eyes.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\eyewhites.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair1.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair2.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair3.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair4.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair5.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\colorscale.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\connector.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\checker.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\collision.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\none.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\yellow.png
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Orphan.exe
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\Orphan.pdb
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Orphan\Orphan\Orphan\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\GameFont16.xnb
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\GameFont8.xnb
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\cake shirt.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\for river.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Icon.ico
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\itemsheet.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\itemholder.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guicenter.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guicorner.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guiside.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\flora.png
+F:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guitab.png
+H:\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.exe
+H:\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.pdb
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\GameFont16.xnb
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\GameFont8.xnb
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\black jeans.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\blue sweater.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\cake shirt.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\defchar.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\for river.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\green sweater.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\jeans.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\PSI shirt.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\red sweater.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\underwear.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\eyes.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\eyewhites.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair1.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair2.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair3.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair4.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair5.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\colorscale.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\connector.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guicenter.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guicorner.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guiside.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guitab.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\itemholder.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\itemsheet.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\flora.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\checker.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\collision.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\none.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\yellow.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Icon.ico
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Orphan.exe
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Orphan.pdb
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.csprojResolveAssemblyReference.cache
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\Axel.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\Kai.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\kavin shirt.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\River.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\check2.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\checkbox2.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\check1.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\checkbox1.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\defchar+1.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair6.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Object\chesttable.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Object\chesttableopen.png
+H:\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair7.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.exe
+C:\Users\user\Documents\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.pdb
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\black jeans.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\blue sweater.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\cake shirt.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\defchar+1.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\defchar.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\for river.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\green sweater.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\jeans.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\kavin shirt.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\PSI shirt.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\red sweater.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Clothing\underwear.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\eyes.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\eyewhites.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair1.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair2.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair3.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair4.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair5.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair6.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\check1.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\check2.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\checkbox1.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\checkbox2.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\colorscale.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\connector.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guicenter.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guicorner.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guiside.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\guitab.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\itemholder.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\GUI\itemsheet.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\Axel.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\Flora.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\Kai.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Kids\River.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Object\chesttable.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Object\chesttableopen.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\checker.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\collision.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\none.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\World\yellow.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\Art\Customize\hair7.png
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\GameFont16.xnb
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Content\GameFont8.xnb
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Icon.ico
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Orphan.exe
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\Orphan.pdb
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\user\Documents\Orphan\Orphan\Orphan\obj\x86\Debug\Orphan.csprojResolveAssemblyReference.cache

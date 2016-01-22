@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/user/Documents/Orphan/Orphan/Orphan/Content/GameFont16.spritefont</SourceFile>
+  <SourceTime>2015-12-07T23:04:22-05:00</SourceTime>
+  <DestFile>C:/Users/user/Documents/Orphan/Orphan/Orphan/Content/bin/Windows/GameFont16.xnb</DestFile>
+  <DestTime>2015-12-26T18:14:44.9760046-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T13:14:44-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T13:14:44-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
